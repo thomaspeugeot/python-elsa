@@ -16,6 +16,9 @@ if mdp == 1234:
     nbr10=nbr*10
     print(nbr, nbr2, nbr3, nbr4, nbr5, nbr6, nbr7, nbr8, nbr9, nbr10)
 
+
+
+    print("hello")
 else:
     print("Votre mot de passe est incorrect")
 
